@@ -91,3 +91,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  [![Emoji Dagger-Knife](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest/scale-to-width-down/20?cb=20200229140539&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/c/c9/Emoji_Dagger-Knife.png/revision/latest?cb=20200229140539&path-prefix=fr) | Sabre | 200 dégâts | Légendaire |
 |  [![Bomb 1f4a3](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest/scale-to-width-down/20?cb=20200229151803&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/f/f9/Bomb_1f4a3.png/revision/latest?cb=20200229151803&path-prefix=fr) | Bombe Atomique | 200 dégâts | Légendaire |
 
+#### Liste des Armures / Boucliers 
+| Symbole | Nom | Attaque | Rareté |
+| :--- | :--- | :--- | :--- |
+|  [![Cucumber 1f952](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest/scale-to-width-down/20?cb=20200229153605&path-prefix=fr)](https://vignette.wikia.nocookie.net/draftbot/images/4/4e/Cucumber_1f952.png/revision/latest?cb=20200229153605&path-prefix=fr) | Cornichon | 1 dégât | Commun |
