@@ -60,9 +60,9 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 |  ![](../.gitbook/assets/gourdin%20%281%29.png)  | Massue | 22 dégâts | Exotique |
 |  ![](../.gitbook/assets/dagger.png)  | Dague fragile | 24 dégâts | Exotique |
 |  ![](../.gitbook/assets/knife.png)  | Couteau de débutant | 27 dégâts | Exotique |
-|   ![](../.gitbook/assets/boomerang.png)  | Boomerang | 30 dégâts | Exotique |
-|   ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
-|   ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
+|  ![](../.gitbook/assets/boomerang.png)  | Boomerang | 30 dégâts | Exotique |
+|  ![](../.gitbook/assets/bow.png)  | Arc de novice | 33 dégâts | Exotique |
+|  ![](../.gitbook/assets/chopstick.png)  | Pew Pew  | 37 dégâts | Exotique |
 |  ![](../.gitbook/assets/banana.png)  | Banane | 26 dégâts | Rare |
 |  ![](../.gitbook/assets/gun.png)  | Pistolet déchargé | 26 dégâts | Rare |
 |  ![](../.gitbook/assets/syringe.png)  | Seringue | 29 dégâts | Rare |
