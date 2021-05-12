@@ -108,7 +108,7 @@ La valeur des équipements est calculée principalement en fonction de la raret�
 
 | Symbole | Nom | Valeur | Rareté |
 | :--- | :--- | :--- | :--- |
-|  | Manteau | 3 défense  | Commun |
+|  ![Pasted Graphic 1](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/twitter/281/coat_1f9e5.png)| Manteau | 3 défense  | Commun |
 |  | Blouse de laboratoire | 3 défense  | Commun |
 |  | Bouclier de débutant | 4 défense  | Commun |
 |  | Bouclier solide  | 6 défense  | Commun |
